@@ -1,0 +1,7 @@
+node_modules/
+.DS_Store
+Thumbs.db
+*.log
+local-saves/
+qa-*-save.json
+我们的房间-第*天.json
